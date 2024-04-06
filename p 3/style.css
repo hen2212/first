@@ -1,0 +1,14 @@
+.d1 {
+    color: blue;
+    font-size: xx-large;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: brown;
+}
+.heading {
+    color: black;
+    font-size: xx-large;
+    font: bold;
+    font: underline;
+    background-color: bisque;
+}
